@@ -2,3 +2,5 @@
 *.p filter=lfs diff=lfs merge=lfs -text
 content/*.p filter=lfs diff=lfs merge=lfs -text
 content/network_graphs/*.html filter=lfs diff=lfs merge=lfs -text
+content/bundled_network_random.p filter=lfs diff=lfs merge=lfs -text
+content/network_graphs/bundled_network_random.html filter=lfs diff=lfs merge=lfs -text
