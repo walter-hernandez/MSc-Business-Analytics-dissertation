@@ -1,0 +1,521 @@
+{
+    "id":1,
+    "name": "Cisco",
+    "children": [
+        {
+            "id":2
+            "name": "Ageing Society, Health & Nutrition",
+            "parent": 1,
+            "children": [
+                {
+                    "id":3
+                    "name": "Assisted Living 1 - User Centre Design",
+                    "children": [
+                        {
+                            "name": 400041,
+                            "children": [
+                                {
+                                    "name": "Building Research Establishment Limited",
+                                    "degree": 199
+                                },
+                                {
+                                    "name": "Bournemouth Borough Council",
+                                    "degree": 13
+                                },
+                                {
+                                    "name": "British Telecommunications Public Limited Company",
+                                    "degree": 89
+                                },
+                                {
+                                    "name": "Centrihealth",
+                                    "degree": 13
+                                },
+                                {
+                                    "name": "Foundation for Assistive Technology",
+                                    "degree": 20
+                                },
+                                {
+                                    "name": "Hereward College",
+                                    "degree": 13
+                                },
+                                {
+                                    "name": "Medilink West Midlands Limited",
+                                    "degree": 18
+                                },
+                                {
+                                    "name": "Microsoft Limited",
+                                    "degree": 70
+                                },
+                                {
+                                    "name": "Royal Institute of British Architects",
+                                    "degree": 27
+                                },
+                                {
+                                    "name": "Sasie Limited",
+                                    "degree": 18
+                                },
+                                {
+                                    "name": "TeleMedic Systems Limited",
+                                    "degree": 17
+                                },
+                                {
+                                    "name": "Tunstall Healthcare (UK) Limited",
+                                    "degree": 22
+                                },
+                                {
+                                    "name": "Willmott Dixon Construction Limited",
+                                    "degree": 30
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Manufacturing, Materials & Mobility",
+            "children": [
+                {
+                    "name": "CAV 2, Stream 2",
+                    "children": [
+                        {
+                            "name": 103289,
+                            "children": [
+                                {
+                                    "name": "WESTFIELD SPORTS CARS LIMITED",
+                                    "degree": 18
+                                },
+                                {
+                                    "name": "Conigital Ltd",
+                                    "degree": 25
+                                },
+                                {
+                                    "name": "Fusion Processing Limited",
+                                    "degree": 30
+                                },
+                                {
+                                    "name": "Harper Adams University",
+                                    "degree": 46
+                                },
+                                {
+                                    "name": "Heathrow Enterprises Ltd",
+                                    "degree": 36
+                                },
+                                {
+                                    "name": "Manchester City Council",
+                                    "degree": 27
+                                },
+                                {
+                                    "name": "Manchester Metropolitan University",
+                                    "degree": 80
+                                },
+                                {
+                                    "name": "Stockport Metropolitan Borough Council",
+                                    "degree": 9
+                                },
+                                {
+                                    "name": "TRANSPORT FOR GREATER MANCHESTER LIMITED",
+                                    "degree": 9
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Enabling the digital railway",
+                    "children": [
+                        {
+                            "name": 101703,
+                            "children": [
+                                {
+                                    "name": "Abellio Transport Holdings Limited",
+                                    "degree": 10
+                                },
+                                {
+                                    "name": "Bronze Software Labs Ltd",
+                                    "degree": 10
+                                },
+                                {
+                                    "name": "Telent Technology Services Limited",
+                                    "degree": 12
+                                },
+                                {
+                                    "name": "Workware Systems Limited",
+                                    "degree": 4
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Enhancing customer experience in rail travel",
+                    "children": [
+                        {
+                            "name": 102485,
+                            "children": [
+                                {
+                                    "name": "CENTURYLINK COMMUNICATIONS UK LIMITED",
+                                    "degree": 3
+                                },
+                                {
+                                    "name": "CGI IT UK LIMITED",
+                                    "degree": 3
+                                },
+                                {
+                                    "name": "Wittos Ltd",
+                                    "degree": 3
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Connected and Autonomous Vehicles Test Bed 2",
+                    "children": [
+                        {
+                            "name": 104032,
+                            "children": [
+                                {
+                                    "name": "TRL LIMITED",
+                                    "degree": 19
+                                },
+                                {
+                                    "name": "Cubic Transportation Systems Ltd",
+                                    "degree": 13
+                                },
+                                {
+                                    "name": "DG CITIES LIMITED",
+                                    "degree": 35
+                                },
+                                {
+                                    "name": "Loughborough University",
+                                    "degree": 223
+                                },
+                                {
+                                    "name": "Transport for London",
+                                    "degree": 99
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Innovation in Vehicle-To-Grid (V2G) Systems: Stream 3 Real-World Demonstrators",
+                    "children": [
+                        {
+                            "name": 104249,
+                            "children": [
+                                {
+                                    "name": "Cenex (Centre of Excellence For Low Carbon and Fuel Cell Technologies)",
+                                    "degree": 78
+                                },
+                                {
+                                    "name": "E-Car Club Limited",
+                                    "degree": 39
+                                },
+                                {
+                                    "name": "Greater London Authority",
+                                    "degree": 10
+                                },
+                                {
+                                    "name": "Imperial College London",
+                                    "degree": 527
+                                },
+                                {
+                                    "name": "NUVVE LTD",
+                                    "degree": 14
+                                },
+                                {
+                                    "name": "Transport for London",
+                                    "degree": 99
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Open & Commercialisation",
+            "children": [
+                {
+                    "name": "Robotics & Autonomous Systems Application over \u00a3100k or Over 12 months - ISCF",
+                    "children": [
+                        {
+                            "name": 103680,
+                            "children": [
+                                {
+                                    "name": "Cortexica Vision Systems Limited",
+                                    "degree": 3
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Global",
+            "children": [
+                {
+                    "name": "Newton - UK-China Agri Tech Challenge 2017",
+                    "children": [
+                        {
+                            "name": 104903,
+                            "children": [
+                                {
+                                    "name": "Manchester Metropolitan University",
+                                    "degree": 80
+                                },
+                                {
+                                    "name": "NQUIRINGMINDS LIMITED",
+                                    "degree": 14
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Clean Growth & Infrastructure",
+            "children": [
+                {
+                    "name": "Infrastructure Systems Round 3 - 13-24 Months",
+                    "children": [
+                        {
+                            "name": 104212,
+                            "children": [
+                                {
+                                    "name": "Bronze Software Labs Ltd",
+                                    "degree": 10
+                                },
+                                {
+                                    "name": "GDS DIGITAL SERVICES LIMITED",
+                                    "degree": 5
+                                },
+                                {
+                                    "name": "St Edmundsbury Borough Council",
+                                    "degree": 5
+                                },
+                                {
+                                    "name": "Suffolk County Council",
+                                    "degree": 5
+                                },
+                                {
+                                    "name": "UNIVERSITY OF SUFFOLK LTD",
+                                    "degree": 5
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Urban Living : Integrated products and Services",
+                    "children": [
+                        {
+                            "name": 102409,
+                            "children": [
+                                {
+                                    "name": "Bronze Software Labs Ltd",
+                                    "degree": 10
+                                },
+                                {
+                                    "name": "Leonardo MW Limited(formally SELEX ES LTD)",
+                                    "degree": 15
+                                },
+                                {
+                                    "name": "University of Strathclyde",
+                                    "degree": 274
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Power electronics -  enabling a resiliant energy system Feb-13 (main)",
+                    "children": [
+                        {
+                            "name": 101532,
+                            "children": [
+                                {
+                                    "name": "AMBX UK Limited",
+                                    "degree": 3
+                                },
+                                {
+                                    "name": "PureLiFi Limited",
+                                    "degree": 4
+                                },
+                                {
+                                    "name": "University of Strathclyde",
+                                    "degree": 274
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Infrastructure Systems - Over 12 months or Over \u00a3100k",
+                    "children": [
+                        {
+                            "name": 102823,
+                            "children": [
+                                {
+                                    "name": "LOCATION SCIENCES AI LIMITED",
+                                    "degree": 5
+                                },
+                                {
+                                    "name": "MOVEMENT STRATEGIES LIMITED",
+                                    "degree": 5
+                                },
+                                {
+                                    "name": "PURPLE WIFI LIMITED",
+                                    "degree": 5
+                                },
+                                {
+                                    "name": "Sustainable Environment Ltd",
+                                    "degree": 5
+                                },
+                                {
+                                    "name": "TRANSPORT FOR GREATER MANCHESTER",
+                                    "degree": 5
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "AI & Data Economy",
+            "children": [
+                {
+                    "name": "IOT Cities Demonstrator",
+                    "children": [
+                        {
+                            "name": 102561,
+                            "children": [
+                                {
+                                    "name": "Manchester City Council",
+                                    "degree": 27
+                                },
+                                {
+                                    "name": "Asset Mapping Limited",
+                                    "degree": 21
+                                },
+                                {
+                                    "name": "British Telecommunications Public Limited Company",
+                                    "degree": 89
+                                },
+                                {
+                                    "name": "Central Manchester University Hospitals NHS Foundation Trust",
+                                    "degree": 21
+                                },
+                                {
+                                    "name": "Clicks and Links Limited",
+                                    "degree": 22
+                                },
+                                {
+                                    "name": "COLLECTIVWORKS LIMITED",
+                                    "degree": 20
+                                },
+                                {
+                                    "name": "Future Everything CIC",
+                                    "degree": 20
+                                },
+                                {
+                                    "name": "Manchester Metropolitan University",
+                                    "degree": 80
+                                },
+                                {
+                                    "name": "Manchester Science Partnerships Ltd",
+                                    "degree": 20
+                                },
+                                {
+                                    "name": "Ordnance Survey Limited",
+                                    "degree": 78
+                                },
+                                {
+                                    "name": "PrismTech",
+                                    "degree": 20
+                                },
+                                {
+                                    "name": "Republic of Things Ltd",
+                                    "degree": 20
+                                },
+                                {
+                                    "name": "Satsafe Limited",
+                                    "degree": 20
+                                },
+                                {
+                                    "name": "Siemens PLC",
+                                    "degree": 60
+                                },
+                                {
+                                    "name": "Smartgateways Ltd",
+                                    "degree": 20
+                                },
+                                {
+                                    "name": "Sparta Technologies Ltd",
+                                    "degree": 20
+                                },
+                                {
+                                    "name": "SPICA Technologies Ltd",
+                                    "degree": 20
+                                },
+                                {
+                                    "name": "Telensa Ltd",
+                                    "degree": 20
+                                },
+                                {
+                                    "name": "Transport for Greater Manchester",
+                                    "degree": 25
+                                },
+                                {
+                                    "name": "University of Manchester",
+                                    "degree": 335
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Collaboration across digital industries - creating sustainable value chains (R2)",
+                    "children": [
+                        {
+                            "name": 101061,
+                            "children": [
+                                {
+                                    "name": "Living PlanIT",
+                                    "degree": 2
+                                },
+                                {
+                                    "name": "Infusion Development UK Limited",
+                                    "degree": 2
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Protecting Data in industry",
+                    "children": [
+                        {
+                            "name": 102504,
+                            "children": [
+                                {
+                                    "name": "Asset Mapping Limited",
+                                    "degree": 21
+                                },
+                                {
+                                    "name": "Johnson Controls Building Efficiency UK Limited",
+                                    "degree": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

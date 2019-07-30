@@ -1,0 +1,534 @@
+[
+    {
+        "id": 1,
+        "name": "Cisco"
+    },
+    {
+        "id": 2,
+        "name": "AI & Data Economy",
+        "parent": 1
+    },
+    {
+        "id": 3,
+        "name": "Manchester City Council",
+        "parent": 2,
+        "size": 27
+    },
+    {
+        "id": 4,
+        "name": "Asset Mapping Limited",
+        "parent": 2,
+        "size": 21
+    },
+    {
+        "id": 5,
+        "name": "British Telecommunications Public Limited Company",
+        "parent": 2,
+        "size": 89
+    },
+    {
+        "id": 6,
+        "name": "Central Manchester University Hospitals NHS Foundation Trust",
+        "parent": 2,
+        "size": 21
+    },
+    {
+        "id": 7,
+        "name": "Clicks and Links Limited",
+        "parent": 2,
+        "size": 22
+    },
+    {
+        "id": 8,
+        "name": "COLLECTIVWORKS LIMITED",
+        "parent": 2,
+        "size": 20
+    },
+    {
+        "id": 9,
+        "name": "Future Everything CIC",
+        "parent": 2,
+        "size": 20
+    },
+    {
+        "id": 10,
+        "name": "Manchester Metropolitan University",
+        "parent": 2,
+        "size": 80
+    },
+    {
+        "id": 11,
+        "name": "Manchester Science Partnerships Ltd",
+        "parent": 2,
+        "size": 20
+    },
+    {
+        "id": 12,
+        "name": "Ordnance Survey Limited",
+        "parent": 2,
+        "size": 78
+    },
+    {
+        "id": 13,
+        "name": "PrismTech",
+        "parent": 2,
+        "size": 20
+    },
+    {
+        "id": 14,
+        "name": "Republic of Things Ltd",
+        "parent": 2,
+        "size": 20
+    },
+    {
+        "id": 15,
+        "name": "Satsafe Limited",
+        "parent": 2,
+        "size": 20
+    },
+    {
+        "id": 16,
+        "name": "Siemens PLC",
+        "parent": 2,
+        "size": 60
+    },
+    {
+        "id": 17,
+        "name": "Smartgateways Ltd",
+        "parent": 2,
+        "size": 20
+    },
+    {
+        "id": 18,
+        "name": "Sparta Technologies Ltd",
+        "parent": 2,
+        "size": 20
+    },
+    {
+        "id": 19,
+        "name": "SPICA Technologies Ltd",
+        "parent": 2,
+        "size": 20
+    },
+    {
+        "id": 20,
+        "name": "Telensa Ltd",
+        "parent": 2,
+        "size": 20
+    },
+    {
+        "id": 21,
+        "name": "Transport for Greater Manchester",
+        "parent": 2,
+        "size": 25
+    },
+    {
+        "id": 22,
+        "name": "University of Manchester",
+        "parent": 2,
+        "size": 335
+    },
+    {
+        "id": 23,
+        "name": "Asset Mapping Limited",
+        "parent": 2,
+        "size": 21
+    },
+    {
+        "id": 24,
+        "name": "Johnson Controls Building Efficiency UK Limited",
+        "parent": 2,
+        "size": 2
+    },
+    {
+        "id": 25,
+        "name": "Living PlanIT",
+        "parent": 2,
+        "size": 2
+    },
+    {
+        "id": 26,
+        "name": "Infusion Development UK Limited",
+        "parent": 2,
+        "size": 2
+    },
+    {
+        "id": 27,
+        "name": "Ageing Society, Health & Nutrition",
+        "parent": 1
+    },
+    {
+        "id": 28,
+        "name": "Building Research Establishment Limited",
+        "parent": 27,
+        "size": 199
+    },
+    {
+        "id": 29,
+        "name": "Bournemouth Borough Council",
+        "parent": 27,
+        "size": 13
+    },
+    {
+        "id": 30,
+        "name": "British Telecommunications Public Limited Company",
+        "parent": 27,
+        "size": 89
+    },
+    {
+        "id": 31,
+        "name": "Centrihealth",
+        "parent": 27,
+        "size": 13
+    },
+    {
+        "id": 32,
+        "name": "Foundation for Assistive Technology",
+        "parent": 27,
+        "size": 20
+    },
+    {
+        "id": 33,
+        "name": "Hereward College",
+        "parent": 27,
+        "size": 13
+    },
+    {
+        "id": 34,
+        "name": "Medilink West Midlands Limited",
+        "parent": 27,
+        "size": 18
+    },
+    {
+        "id": 35,
+        "name": "Microsoft Limited",
+        "parent": 27,
+        "size": 70
+    },
+    {
+        "id": 36,
+        "name": "Royal Institute of British Architects",
+        "parent": 27,
+        "size": 27
+    },
+    {
+        "id": 37,
+        "name": "Sasie Limited",
+        "parent": 27,
+        "size": 18
+    },
+    {
+        "id": 38,
+        "name": "TeleMedic Systems Limited",
+        "parent": 27,
+        "size": 17
+    },
+    {
+        "id": 39,
+        "name": "Tunstall Healthcare (UK) Limited",
+        "parent": 27,
+        "size": 22
+    },
+    {
+        "id": 40,
+        "name": "Willmott Dixon Construction Limited",
+        "parent": 27,
+        "size": 30
+    },
+    {
+        "id": 41,
+        "name": "Manufacturing, Materials & Mobility",
+        "parent": 1
+    },
+    {
+        "id": 42,
+        "name": "Abellio Transport Holdings Limited",
+        "parent": 41,
+        "size": 10
+    },
+    {
+        "id": 43,
+        "name": "Bronze Software Labs Ltd",
+        "parent": 41,
+        "size": 10
+    },
+    {
+        "id": 44,
+        "name": "Telent Technology Services Limited",
+        "parent": 41,
+        "size": 12
+    },
+    {
+        "id": 45,
+        "name": "Workware Systems Limited",
+        "parent": 41,
+        "size": 4
+    },
+    {
+        "id": 46,
+        "name": "TRL LIMITED",
+        "parent": 41,
+        "size": 19
+    },
+    {
+        "id": 47,
+        "name": "Cubic Transportation Systems Ltd",
+        "parent": 41,
+        "size": 13
+    },
+    {
+        "id": 48,
+        "name": "DG CITIES LIMITED",
+        "parent": 41,
+        "size": 35
+    },
+    {
+        "id": 49,
+        "name": "Loughborough University",
+        "parent": 41,
+        "size": 223
+    },
+    {
+        "id": 50,
+        "name": "Transport for London",
+        "parent": 41,
+        "size": 99
+    },
+    {
+        "id": 51,
+        "name": "Cenex (Centre of Excellence For Low Carbon and Fuel Cell Technologies)",
+        "parent": 41,
+        "size": 78
+    },
+    {
+        "id": 52,
+        "name": "E-Car Club Limited",
+        "parent": 41,
+        "size": 39
+    },
+    {
+        "id": 53,
+        "name": "Greater London Authority",
+        "parent": 41,
+        "size": 10
+    },
+    {
+        "id": 54,
+        "name": "Imperial College London",
+        "parent": 41,
+        "size": 527
+    },
+    {
+        "id": 55,
+        "name": "NUVVE LTD",
+        "parent": 41,
+        "size": 14
+    },
+    {
+        "id": 56,
+        "name": "Transport for London",
+        "parent": 41,
+        "size": 99
+    },
+    {
+        "id": 57,
+        "name": "WESTFIELD SPORTS CARS LIMITED",
+        "parent": 41,
+        "size": 18
+    },
+    {
+        "id": 58,
+        "name": "Conigital Ltd",
+        "parent": 41,
+        "size": 25
+    },
+    {
+        "id": 59,
+        "name": "Fusion Processing Limited",
+        "parent": 41,
+        "size": 30
+    },
+    {
+        "id": 60,
+        "name": "Harper Adams University",
+        "parent": 41,
+        "size": 46
+    },
+    {
+        "id": 61,
+        "name": "Heathrow Enterprises Ltd",
+        "parent": 41,
+        "size": 36
+    },
+    {
+        "id": 62,
+        "name": "Manchester City Council",
+        "parent": 41,
+        "size": 27
+    },
+    {
+        "id": 63,
+        "name": "Manchester Metropolitan University",
+        "parent": 41,
+        "size": 80
+    },
+    {
+        "id": 64,
+        "name": "Stockport Metropolitan Borough Council",
+        "parent": 41,
+        "size": 9
+    },
+    {
+        "id": 65,
+        "name": "TRANSPORT FOR GREATER MANCHESTER LIMITED",
+        "parent": 41,
+        "size": 9
+    },
+    {
+        "id": 66,
+        "name": "CENTURYLINK COMMUNICATIONS UK LIMITED",
+        "parent": 41,
+        "size": 3
+    },
+    {
+        "id": 67,
+        "name": "CGI IT UK LIMITED",
+        "parent": 41,
+        "size": 3
+    },
+    {
+        "id": 68,
+        "name": "Wittos Ltd",
+        "parent": 41,
+        "size": 3
+    },
+    {
+        "id": 69,
+        "name": "Clean Growth & Infrastructure",
+        "parent": 1
+    },
+    {
+        "id": 70,
+        "name": "Bronze Software Labs Ltd",
+        "parent": 69,
+        "size": 10
+    },
+    {
+        "id": 71,
+        "name": "GDS DIGITAL SERVICES LIMITED",
+        "parent": 69,
+        "size": 5
+    },
+    {
+        "id": 72,
+        "name": "St Edmundsbury Borough Council",
+        "parent": 69,
+        "size": 5
+    },
+    {
+        "id": 73,
+        "name": "Suffolk County Council",
+        "parent": 69,
+        "size": 5
+    },
+    {
+        "id": 74,
+        "name": "UNIVERSITY OF SUFFOLK LTD",
+        "parent": 69,
+        "size": 5
+    },
+    {
+        "id": 75,
+        "name": "AMBX UK Limited",
+        "parent": 69,
+        "size": 3
+    },
+    {
+        "id": 76,
+        "name": "PureLiFi Limited",
+        "parent": 69,
+        "size": 4
+    },
+    {
+        "id": 77,
+        "name": "University of Strathclyde",
+        "parent": 69,
+        "size": 274
+    },
+    {
+        "id": 78,
+        "name": "LOCATION SCIENCES AI LIMITED",
+        "parent": 69,
+        "size": 5
+    },
+    {
+        "id": 79,
+        "name": "MOVEMENT STRATEGIES LIMITED",
+        "parent": 69,
+        "size": 5
+    },
+    {
+        "id": 80,
+        "name": "PURPLE WIFI LIMITED",
+        "parent": 69,
+        "size": 5
+    },
+    {
+        "id": 81,
+        "name": "Sustainable Environment Ltd",
+        "parent": 69,
+        "size": 5
+    },
+    {
+        "id": 82,
+        "name": "TRANSPORT FOR GREATER MANCHESTER",
+        "parent": 69,
+        "size": 5
+    },
+    {
+        "id": 83,
+        "name": "Bronze Software Labs Ltd",
+        "parent": 69,
+        "size": 10
+    },
+    {
+        "id": 84,
+        "name": "Leonardo MW Limited(formally SELEX ES LTD)",
+        "parent": 69,
+        "size": 15
+    },
+    {
+        "id": 85,
+        "name": "University of Strathclyde",
+        "parent": 69,
+        "size": 274
+    },
+    {
+        "id": 86,
+        "name": "Global",
+        "parent": 1
+    },
+    {
+        "id": 87,
+        "name": "Manchester Metropolitan University",
+        "parent": 86,
+        "size": 80
+    },
+    {
+        "id": 88,
+        "name": "NQUIRINGMINDS LIMITED",
+        "parent": 86,
+        "size": 14
+    },
+    {
+        "id": 89,
+        "name": "Open & Commercialisation",
+        "parent": 1
+    },
+    {
+        "id": 90,
+        "name": "Cortexica Vision Systems Limited",
+        "parent": 89,
+        "size": 3
+    }
+]

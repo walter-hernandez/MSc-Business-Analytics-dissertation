@@ -1,0 +1,621 @@
+2019-07-02 17:16:58,917 [281] DEBUG    root:77: [JupyterRequire] Loading Jupyter Require extension.
+2019-07-02 17:16:58,917 [281] DEBUG    root:103: [JupyterRequire] Initializing comms.
+2019-07-02 17:16:58,930 [281] DEBUG    root:107: [JupyterRequire] Registering comm targets.
+2019-07-02 17:16:59,441 [281] DEBUG    root:77: [JupyterRequire] Loading Jupyter Require extension.
+2019-07-02 17:16:59,451 [281] DEBUG    root:103: [JupyterRequire] Initializing comms.
+2019-07-02 17:16:59,462 [281] DEBUG    root:107: [JupyterRequire] Registering comm targets.
+2019-07-02 17:21:06,492 [281] DEBUG    jupyter_nbutils.utils:120: [JupyterRequire] Jupyter nbextension version: 5.7.8
+2019-07-02 17:21:06,572 [281] DEBUG    jupyter_nbutils.utils:145: [JupyterRequire] Installing extension: jupyter_require
+2019-07-02 17:21:07,682 [281] INFO     jupyter_nbutils.utils:149: [JupyterRequire] Installing /opt/anaconda/envs/Python3/lib/python3.6/site-packages/jupyter_require/static -> jupyter-require
+Removing: /opt/anaconda/envs/Python3/share/jupyter/nbextensions/jupyter-require
+Making directory: /opt/anaconda/envs/Python3/share/jupyter/nbextensions/jupyter-require/
+Copying: /opt/anaconda/envs/Python3/lib/python3.6/site-packages/jupyter_require/static/display.js -> /opt/anaconda/envs/Python3/share/jupyter/nbextensions/jupyter-require/display.js
+Copying: /opt/anaconda/envs/Python3/lib/python3.6/site-packages/jupyter_require/static/core.js -> /opt/anaconda/envs/Python3/share/jupyter/nbextensions/jupyter-require/core.js
+Copying: /opt/anaconda/envs/Python3/lib/python3.6/site-packages/jupyter_require/static/extension.js -> /opt/anaconda/envs/Python3/share/jupyter/nbextensions/jupyter-require/extension.js
+- Validating: [32mOK[0m
+
+    To initialize this nbextension in the browser every time the notebook (or other app) loads:
+    
+          jupyter nbextension enable jupyter_require --py --sys-prefix
+    
+
+2019-07-02 17:21:07,682 [281] DEBUG    jupyter_nbutils.utils:153: [JupyterRequire] Success.
+2019-07-02 17:21:09,028 [281] DEBUG    root:352: [JupyterRequire] Comm 'communicate' opened.
+2019-07-02 17:21:09,039 [281] DEBUG    root:358: [JupyterRequire] Message received: {'header': {'msg_id': 'f44dec78c13549e786d3f694c31232da', 'username': 'username', 'session': '156730a397c0457387c7d88a6d9f3afa', 'msg_type': 'comm_msg', 'version': '5.2', 'date': datetime.datetime(2019, 7, 2, 17, 21, 9, 26528, tzinfo=tzlocal())}, 'msg_id': 'f44dec78c13549e786d3f694c31232da', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'communicate.JupyterRequire#1562088071606', 'data': {'event': {'namespace': 'JupyterRequire', 'timeStamp': 1562088072646, 'type': 'extension_loaded'}}}, 'buffers': []}
+2019-07-02 17:21:09,055 [281] DEBUG    root:366: [JupyterRequire] Requested message handler.
+	Data: {'event': {'namespace': 'JupyterRequire', 'timeStamp': 1562088072646, 'type': 'extension_loaded'}}
+	Event: {'namespace': 'JupyterRequire', 'timeStamp': 1562088072646, 'type': 'extension_loaded'}
+2019-07-02 17:21:09,066 [281] DEBUG    root:330: [JupyterRequire] Extension loaded.
+2019-07-02 17:21:09,079 [281] DEBUG    root:337: [JupyterRequire] Comms initialized.
+2019-07-02 17:21:09,092 [281] DEBUG    root:378: [JupyterRequire] Success.
+2019-07-02 17:24:20,566 [281] DEBUG    root:77: [JupyterRequire] Loading Jupyter Require extension.
+2019-07-02 17:24:20,566 [281] DEBUG    root:103: [JupyterRequire] Initializing comms.
+2019-07-02 17:24:20,577 [281] DEBUG    root:107: [JupyterRequire] Registering comm targets.
+2019-07-02 17:24:21,089 [281] DEBUG    root:77: [JupyterRequire] Loading Jupyter Require extension.
+2019-07-02 17:24:21,099 [281] DEBUG    root:103: [JupyterRequire] Initializing comms.
+2019-07-02 17:24:21,110 [281] DEBUG    root:107: [JupyterRequire] Registering comm targets.
+2019-07-02 18:02:46,574 [281] DEBUG    matplotlib.axes._base:2515: [JupyterRequire] update_title_pos
+2019-07-02 18:02:46,600 [281] DEBUG    matplotlib.axes._base:2515: [JupyterRequire] update_title_pos
+2019-07-02 18:02:46,639 [281] DEBUG    matplotlib.axes._base:2515: [JupyterRequire] update_title_pos
+2019-07-02 18:02:46,671 [281] DEBUG    matplotlib.axes._base:2515: [JupyterRequire] update_title_pos
+2019-07-02 18:02:46,705 [281] DEBUG    matplotlib.axes._base:2515: [JupyterRequire] update_title_pos
+2019-07-02 18:02:59,957 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/networkx/drawing/nx_pylab.py:611: MatplotlibDeprecationWarning: isinstance(..., numbers.Number)
+  linewidths=[4*ww for ww in lw],
+
+2019-07-02 18:02:59,963 [281] DEBUG    matplotlib.axes._base:2515: [JupyterRequire] update_title_pos
+2019-07-02 18:03:00,017 [281] DEBUG    matplotlib.axes._base:2515: [JupyterRequire] update_title_pos
+2019-07-02 18:03:00,047 [281] DEBUG    matplotlib.axes._base:2515: [JupyterRequire] update_title_pos
+2019-07-02 18:03:00,065 [281] DEBUG    matplotlib.axes._base:2515: [JupyterRequire] update_title_pos
+2019-07-02 18:14:21,667 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in loadNamespace(name) : there is no package called ‘networkD3’
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:14:21,670 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: In addition: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:14:21,680 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Warning message:
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:14:21,690 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: packages ‘n’, ‘e’, ‘t’, ‘w’, ‘o’, ‘r’, ‘k’, ‘D’, ‘3’ are not available (for R version 3.6.0) 
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:15:30,903 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: There were 25 warnings (use warnings() to see them)
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:15:30,916 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:15:52,461 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: There were 26 warnings (use warnings() to see them)
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:21:48,582 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in (function (expr, envir = parent.frame(), enclos = if (is.list(envir) ||  : 
+  object 'networkD3' not found
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:21:48,586 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: There were 50 or more warnings (use warnings() to see the first 50)
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:23:00,619 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in library(networkD3) : there is no package called ‘networkD3’
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:23:00,674 [281] DEBUG    root:965: [JupyterRequire] An unexpected error occurred while tokenizing input
+The following traceback may be corrupted or invalid
+The error message is: ('EOF in multi-line string', (1, 0))
+
+2019-07-02 18:23:22,986 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in install(networkD3) : could not find function "install"
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:23:23,071 [281] DEBUG    root:965: [JupyterRequire] An unexpected error occurred while tokenizing input
+The following traceback may be corrupted or invalid
+The error message is: ('EOF in multi-line string', (1, 0))
+
+2019-07-02 18:24:22,312 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in install.package(networkD3) : 
+  could not find function "install.package"
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:24:22,372 [281] DEBUG    root:965: [JupyterRequire] An unexpected error occurred while tokenizing input
+The following traceback may be corrupted or invalid
+The error message is: ('EOF in multi-line string', (1, 0))
+
+2019-07-02 18:24:38,778 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in simpleNetwork(networkData) : 
+  could not find function "simpleNetwork"
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:24:38,875 [281] DEBUG    root:965: [JupyterRequire] An unexpected error occurred while tokenizing input
+The following traceback may be corrupted or invalid
+The error message is: ('EOF in multi-line string', (1, 0))
+
+2019-07-02 18:28:28,212 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: also installing the dependencies ‘lattice’, ‘htmltools’, ‘jsonlite’, ‘yaml’, ‘Matrix’, ‘htmlwidgets’, ‘igraph’
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:28,216 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/lattice_0.20-38.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:28,387 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Content type 'application/x-gzip'
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:28,398 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 359031 bytes (350 KB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:28,408 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: =
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:28,418 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 350 KB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:28,435 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/htmltools_0.3.6.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:29,045 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 45408 bytes (44 KB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:29,056 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 44 KB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:29,071 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/jsonlite_1.6.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:29,363 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 1052728 bytes (1.0 MB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:29,399 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 1.0 MB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:29,423 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/yaml_2.2.0.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:29,834 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 89447 bytes (87 KB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:29,845 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 87 KB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:29,860 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/Matrix_1.2-17.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:30,270 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 1860456 bytes (1.8 MB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:30,285 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 1.8 MB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:30,300 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/htmlwidgets_1.3.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:30,581 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 866548 bytes (846 KB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:30,663 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 846 KB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:30,678 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/igraph_1.2.4.1.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:30,969 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 2704004 bytes (2.6 MB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:31,067 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 2.6 MB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:31,082 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/networkD3_0.4.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:31,494 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 128302 bytes (125 KB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:31,505 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 125 KB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,327 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,330 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: The downloaded source packages are in
+	‘/tmp/Rtmp97kha5/downloaded_packages’
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,340 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Updating HTML index of packages in '.Library'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,350 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Making 'packages.html' ...
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,371 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  done
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,383 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Warning messages:
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,393 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 1: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,404 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: In (function (pkgs, lib, repos = getOption("repos"), contriburl = contrib.url(repos,  :
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,414 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 
+ 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,426 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘lattice’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,435 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 2: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,445 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘htmltools’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,455 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 3: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,466 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘jsonlite’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,476 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 4: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,485 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘yaml’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,496 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 5: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,507 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘Matrix’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,518 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 6: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,529 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘htmlwidgets’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,540 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 7: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,550 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘igraph’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,561 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 8: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 18:28:47,572 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘networkD3’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-02 19:06:34,991 [281] DEBUG    matplotlib.axes._base:2515: [JupyterRequire] update_title_pos
+2019-07-02 19:06:35,017 [281] DEBUG    matplotlib.axes._base:2515: [JupyterRequire] update_title_pos
+2019-07-02 19:06:35,056 [281] DEBUG    matplotlib.axes._base:2515: [JupyterRequire] update_title_pos
+2019-07-02 19:06:35,089 [281] DEBUG    matplotlib.axes._base:2515: [JupyterRequire] update_title_pos
+2019-07-02 19:06:35,112 [281] DEBUG    matplotlib.axes._base:2515: [JupyterRequire] update_title_pos
+2019-07-03 00:46:17,830 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in library(networkD3) : there is no package called ‘networkD3’
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:46:37,874 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in install.packages(networkD3) : object 'networkD3' not found
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:07,344 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: also installing the dependencies ‘lattice’, ‘htmltools’, ‘jsonlite’, ‘yaml’, ‘Matrix’, ‘htmlwidgets’, ‘igraph’
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:07,349 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/lattice_0.20-38.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:07,759 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Content type 'application/x-gzip'
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:07,769 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 359031 bytes (350 KB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:07,779 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: =
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:07,790 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:07,800 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 350 KB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:07,816 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/htmltools_0.3.6.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:08,274 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 45408 bytes (44 KB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:08,285 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 44 KB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:08,364 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/jsonlite_1.6.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:08,670 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 1052728 bytes (1.0 MB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:08,703 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 1.0 MB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:08,718 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/yaml_2.2.0.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:08,994 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 89447 bytes (87 KB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:09,005 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 87 KB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:09,024 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/Matrix_1.2-17.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:09,287 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 1860456 bytes (1.8 MB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:09,302 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 1.8 MB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:09,317 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/htmlwidgets_1.3.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:09,728 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 866548 bytes (846 KB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:09,742 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 846 KB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:09,765 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/igraph_1.2.4.1.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:10,177 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 2704004 bytes (2.6 MB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:10,261 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 2.6 MB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:10,277 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/networkD3_0.4.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:10,687 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 128302 bytes (125 KB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:10,698 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 125 KB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:26,270 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:26,273 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: The downloaded source packages are in
+	‘/tmp/Rtmp97kha5/downloaded_packages’
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:26,284 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Updating HTML index of packages in '.Library'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:26,295 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Making 'packages.html' ...
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:49:26,316 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  done
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:02,914 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: In addition: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:02,963 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Warning messages:
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:02,974 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 1: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:02,984 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: In (function (pkgs, lib, repos = getOption("repos"), contriburl = contrib.url(repos,  :
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:02,995 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 
+ 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:03,017 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘lattice’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:03,027 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 2: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:03,038 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘htmltools’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:03,048 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 3: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:03,063 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘jsonlite’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:03,073 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 4: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:03,084 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘yaml’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:03,094 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 5: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:03,104 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘Matrix’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:03,114 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 6: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:03,125 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘htmlwidgets’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:03,135 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 7: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:03,145 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘igraph’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:03,157 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: 8: 
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:50:03,167 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  installation of package ‘networkD3’ had non-zero exit status
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:53:48,328 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: also installing the dependencies ‘lattice’, ‘Matrix’
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:54:17,665 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: There were 11 warnings (use warnings() to see them)
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 00:54:46,884 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in library(igraph) : there is no package called ‘igraph’
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:00:13,244 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: also installing the dependency ‘igraph’
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:06:57,929 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/ggplot2_3.2.0.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:06:58,394 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 3193995 bytes (3.0 MB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:06:58,469 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 3.0 MB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:06:58,484 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: trying URL 'https://cloud.r-project.org/src/contrib/hexbin_1.27.3.tar.gz'
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:06:58,897 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning:  length 586077 bytes (572 KB)
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:06:58,909 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: downloaded 572 KB
+
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:09:32,509 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in loadNamespace(name) : there is no package called ‘networkD3’
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:09:32,513 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: There were 30 warnings (use warnings() to see them)
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:10:10,764 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in library("networkD3") : there is no package called ‘networkD3’
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:10:33,796 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in loadNamespace(name) : there is no package called ‘igraph’
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:10:44,829 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in loadNamespace(name) : there is no package called ‘ggplot’
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:15:09,710 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in base._libPaths() : could not find function "base._libPaths"
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:30:24,508 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in (function (file = "", n = NULL, text = NULL, prompt = "?", keep.source = getOption("keep.source"),  : 
+  <text>:2:7: unexpected symbol
+1: withVisible({
+2: !sudo R
+         ^
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:30:58,148 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: Error in utils.install.packages(c("networkD3", "igraph"), lib = "/opt/anaconda/envs/Python3/lib/R/library") : 
+  could not find function "utils.install.packages"
+
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:33:12,641 [281] WARNING  py.warnings:99: [JupyterRequire] /opt/anaconda/envs/Python3/lib/python3.6/site-packages/rpy2/rinterface/__init__.py:146: RRuntimeWarning: In install.packages(c("networkD3", "igraph"), lib = "/opt/anaconda/envs/Python3/lib/R/library") :
+  warnings.warn(x, RRuntimeWarning)
+
+2019-07-03 01:48:55,889 [281] ERROR    root:221: [JupyterRequire] Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-07-03 01:48:55,893 [281] ERROR    root:221: [JupyterRequire] Invalid alias: The name more can't be aliased because it is another magic command.
+2019-07-03 01:48:55,904 [281] ERROR    root:221: [JupyterRequire] Invalid alias: The name less can't be aliased because it is another magic command.
+2019-07-03 01:48:55,914 [281] ERROR    root:221: [JupyterRequire] Invalid alias: The name man can't be aliased because it is another magic command.
