@@ -1,2 +1,4 @@
 *.html filter=lfs diff=lfs merge=lfs -text
 *.p filter=lfs diff=lfs merge=lfs -text
+content/*.p filter=lfs diff=lfs merge=lfs -text
+content/network_graphs/*.html filter=lfs diff=lfs merge=lfs -text
