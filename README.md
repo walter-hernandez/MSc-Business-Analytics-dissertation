@@ -7,10 +7,10 @@ Most of the code is in Python and a few lines of code are in javascript to aid i
 # Files
 The main files in this repository are:
 -  Dissertation.ipynb
-	> Contains all the code for the network analysis and topic modelling.
+	> Jupyter notebook that contains all the code for the network analysis and topic modelling.
 	
 - Interactive_visualisations.ipynb
-	> Calls all the interactive visualisations for the network analysis, topic modelling as well as the geospatial visualisations. These visualisations were not included in the dissertation because it was a plain document in PDF. However, the interactive visualisations are included here.
+	> Jupyter notebook that calls all the interactive visualisations saved as HTML files in the content folder. These interactive visualisations are of the network analysis, topic modelling as well as the geospatial visualisations. These visualisations were not included in the dissertation because it was a plain document in PDF. However, the interactive visualisations are included here.
 
 The content folder contains:
 - Interactive visualisations in HTML 
